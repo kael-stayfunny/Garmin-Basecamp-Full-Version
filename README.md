@@ -242,4 +242,4 @@ This repository serves as the official landing page for Garmin BaseCamp. The sof
 **Get the most recent version of Garmin BaseCamp today!**
 
 ---
-**Last updated:** 2026-09-30 00:11:38 UTC
+**Last updated:** 2026-09-30 06:27:59 UTC
